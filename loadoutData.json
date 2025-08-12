@@ -731,6 +731,18 @@
             "warbond": "Masters of Ceremony",
             "premium": true,
             "page": 2
+        },
+        {
+            "name": "P-92 Warrant",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 80, "capacity": 13, "recoil": 31, "fire rate": 450 },
+            "traits": "Medium Armor Penetrating,One Handed,Guided",
+            "price": 300,
+            "warbond": "None",
+            "premium": true,
+            "page": 0
         }
     ],
     "Armor Passives": [
