@@ -1524,21 +1524,6 @@
             "traits": "Hellpod"
         },
         {
-            "name": "Grenadier Battlement",
-            "descriptive-name": "E/GL-21 Grenadier Battlement",
-            "description": "A stationary ballistic cover with a mounted grenade launcher. Can protect multiple Helldivers from small arms fire.",
-            "category": "Bridge",
-            "sub-category": "Emplacement",
-            "type": "Defensive",
-            "price": 10000,
-            "level": 15,
-            "code": "sdsad",
-            "call-in-time": 4.75,
-            "uses": -1,
-            "cooldown-time": 120,
-            "traits": "Hellpod"
-        },
-        {
             "name": "Anti-Personnel Minefield",
             "descriptive-name": "MD-6 Anti-Personnel Minefield",
             "description": "Deploys a defensive anti-personnel minefield, to halt enemy advance.",
@@ -2046,6 +2031,21 @@
             "call-in-time": 9.75,
             "uses": -1,
             "cooldown-time": 480,
+            "traits": "Hellpod"
+        },
+        {
+            "name": "Grenadier Battlement",
+            "descriptive-name": "E/GL-21 Grenadier Battlement",
+            "description": "A stationary ballistic cover with a mounted grenade launcher. Can protect multiple Helldivers from small arms fire.",
+            "category": "Bridge",
+            "sub-category": "Emplacement",
+            "type": "Defensive",
+            "price": 10000,
+            "level": 15,
+            "code": "sdsad",
+            "call-in-time": 4.75,
+            "uses": -1,
+            "cooldown-time": 120,
             "traits": "Hellpod"
         },
         {
