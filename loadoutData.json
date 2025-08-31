@@ -536,6 +536,18 @@
             "page": 1
         },
         {
+            "name": "M7S SMG",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Submachine Gun",
+            "stats": { "damage": 70, "capacity": 48, "recoil": 8, "fire rate": 872 },
+            "traits": "Light Armor Penetrating,One Handed,Suppressed",
+            "price": 50,
+            "warbond": "Obedient Democracy Support Troopers",
+            "premium": true,
+            "page": 2
+        },
+        {
             "name": "M90A Shotgun",
             "description": "",
             "category": "primary",
@@ -767,18 +779,6 @@
             "warbond": "None",
             "premium": true,
             "page": 0
-        },
-        {
-            "name": "M7S SMG",
-            "description": "",
-            "category": "secondary",
-            "sub-category": "submachine gun",
-            "stats": { "damage": 70, "capacity": 48, "recoil": 8, "fire rate": 872 },
-            "traits": "Light Armor Penetrating,One Handed,Suppressed",
-            "price": 50,
-            "warbond": "Obedient Democracy Support Troopers",
-            "premium": true,
-            "page": 2
         },
         {
             "name": "M6C/SOCOM Pistol",
