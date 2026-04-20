@@ -873,6 +873,34 @@
         {
             "passive": "Feet First",
             "passive-description": "Wearer makes 50% less noise when moving. Increases point-of-interest identification range by 30%. Provides immunity to leg injuries."
+        },
+                {
+            "passive": "Desert Stormer",
+            "passive-description": "Provides 40% resistance to fire, gas, acid, and electrical damage. Increases throwing range by 20%."
+        },
+        {
+            "passive": "Rock Solid",
+            "passive-description": "Increases melee damage by 40%. Bearer is more resistant to being knocked prone."
+        },
+        {
+            "passive": "Reduced Signature",
+            "passive-description": "Wearer makes 50% less noise when moving. Reduces range at which enemies can detect the wearer by 40%."
+        },
+        {
+            "passive": "Supplementary Adrenaline",
+            "passive-description": "When the wearer takes damage, they regain some stamina. Provides a higher armor rating."
+        },
+        {
+            "passive": "Concussive Padding, Reinforced",
+            "passive-description": "Provides 50% resistance to explosive damage. Provides a higher armor rating."
+        },
+        {
+            "passive": "Concussive Padding, Hazmat",
+            "passive-description": "Provides 50% resistance to explosive damage. Provides 25% resistance to gas damage and effects. Sidearm recoil reduced by 30%."
+        },
+        {
+            "passive": "Concussive Padding, Grenadier",
+            "passive-description": "Provides 50% resistance to explosive damage. Increases initial inventory and holding capacity of throwables by +2."
         }
     ],
     "Armor Types": ["light", "medium", "heavy"],
@@ -2189,6 +2217,186 @@
             "uses": -1,
             "cooldown-time": 480,
             "traits": "Hellpod"
+        },
+        {
+            "name": "Speargun",
+            "descriptive-name": "S-11 Speargun",
+            "description": "A speargun firing heavy-duty projectiles. These projectiles release a cloud of gas on impact, and must be carefully loaded one at a time.",
+            "category": "Dust Devils",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 195,
+            "level": 2,
+            "code": "sdsawd",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Anti-Tank,Caustic"
+        },
+        {
+            "name": "Expendable Napalm",
+            "descriptive-name": "EAT-700 Expendable Napalm",
+            "description": "A single-use weapon that fires a missile containing napalm cluster bombs that release upon impact.",
+            "category": "Dust Devils",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 195,
+            "level": 2,
+            "code": "ssawa",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 140,
+            "traits": "Hellpod,Incendiary,Expendable"
+        },
+        {
+            "name": "Solo Silo",
+            "descriptive-name": "MS-11 Solo Silo",
+            "description": "A silo that fits one single, powerful missile. Comes with a handheld targeting remote.",
+            "category": "Dust Devils",
+            "sub-category": "Emplacement",
+            "type": "Defensive",
+            "price": 380,
+            "level": 3,
+            "code": "swdss",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 180,
+            "traits": "Hellpod,Anti-Tank,Explosive"
+        },
+        {
+            "name": "\"Guard Dog\" Hot Dog",
+            "descriptive-name": "AX/FLAM-75 Hot Dog",
+            "description": "An autonomous drone equipped with a flamethrower. Returns to pack to refill fuel canisters",
+            "category": "Python Commandos",
+            "sub-category": "Backpack",
+            "type": "Supply",
+            "price": 75,
+            "level": 1,
+            "code": "swawaa",
+            "call-in-time": 9.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Incendiary"
+        },
+        {
+            "name": "Defoliation Tool",
+            "descriptive-name": "CQC-9 Defoliation Tool",
+            "description": "A useful field-clearing tool for removing trees, obstacles, and unlucky foes.",
+            "category": "Python Commandos",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 250,
+            "level": 2,
+            "code": "sadds",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Melee"
+        },
+        {
+            "name": "Maxigun",
+            "descriptive-name": "M-1000 Maxigun",
+            "description": "A belt-fed minigun with an exceptional ammo capacity. Cannot be reloaded with standard non-belted munitions.",
+            "category": "Python Commandos",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 315,
+            "level": 3,
+            "code": "sadsww",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Medium Armor Penetrating,Backpack"
+        },
+        {
+            "name": "C4 Pack",
+            "descriptive-name": "B/MD C4 Pack",
+            "description": "A backpack containing six adhesive C4 charges and a handheld wireless electronic detonator. Charges can be deployed and detonated individually, or as multiple simultaneous blasts.",
+            "category": "Redacted Regiment",
+            "sub-category": "Backpack",
+            "type": "Supply",
+            "price": 325,
+            "level": 3,
+            "code": "sdwwdw",
+            "call-in-time": 9.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Anti-Tank,Explosive"
+        },
+        {
+            "name": "CQC-20",
+            "descriptive-name": "CQC-20 Breaching Hammer",
+            "description": "A sledgehammer that can be wielded with or without an explosive charge attached to its head.",
+            "category": "Siege Breakers",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 75,
+            "level": 1,
+            "code": "sadaw",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Anti-Tank,Explosive,Melee"
+        },
+        {
+            "name": "EAT-411",
+            "descriptive-name": "EAT-411 Leveller",
+            "description": "A single-use weapon firing a high-yield missile. Discarded after every use.",
+            "category": "Siege Breakers",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 250,
+            "level": 2,
+            "code": "ssaws",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 140,
+            "traits": "Hellpod,Anti-Tank,Expendable"
+        },
+        {
+            "name": "GL-28",
+            "descriptive-name": "GL-28 Belt-Fed Grenade Launcher",
+            "description": "A grenade launcher that can be fired continuously to deliver a nonstop barrage of explosives. ",
+            "category": "Siege Breakers",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 320,
+            "level": 3,
+            "code": "sawaww",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Backpack,Explosive,Heavy Armor Penetrating"
+        },
+        {
+            "name": "Gas Mortar Sentry",
+            "descriptive-name": "A/GM-17 Gas Mortar Sentry",
+            "description": "An automated turret that fires gas shells. Its targeting system prioritizes hostiles not yet exhibiting symptoms caused by gas inhalation. Users are advised to stay significantly upwind of the resulting crowd control.",
+            "category": "Entrenched Division",
+            "sub-category": "Sentry",
+            "type": "Defensive",
+            "price": 210,
+            "level": 2,
+            "code": "swdsa",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 180,
+            "traits": "Hellpod,Explosive,Caustic"
+        },
+        {
+            "name": "Cremator",
+            "descriptive-name": "B/FLAM-80 Cremator",
+            "description": "Incendiary support fed by a massive fuel tank. This heavy flamethrower enables a continuous column of fire to cleanse the battlefield.",
+            "category": "Entrenched Division",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 480,
+            "level": 3,
+            "code": "ssdsww",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod,Backpack,Inceni"
         }
     ],
     "Boosters": [
@@ -2302,6 +2510,13 @@
             "effect": "Exposes Hellpod wiring upon surface contact, stunning any units in the vicinity of the drop site.",
             "price": 55,
             "category": "Force of Law",
+            "premium": true
+        },
+        {
+            "name": "Concealed Insertion",
+            "effect": "Equips Hellpods to deploy smokescreens on impact, obscuring Helldiver deployment.",
+            "price": 40,
+            "category": "Redacted Regiment",
             "premium": true
         }
     ],
