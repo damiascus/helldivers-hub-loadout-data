@@ -1,6 +1,7 @@
 {
     "Primary Weaponry": [
         {
+            "id": 0,
             "name": "AR-23 Liberator",
             "description": "",
             "category": "primary",
@@ -13,6 +14,7 @@
             "page": 0
         },
         {
+            "id": 1,
             "name": "MP-98 Knight",
             "description": "",
             "category": "primary",
@@ -30,6 +32,7 @@
             "page": 0
         },
         {
+            "id": 2,
             "name": "R-63 Diligence",
             "description": "",
             "category": "primary",
@@ -47,6 +50,7 @@
             "page": 2
         },
         {
+            "id": 3,
             "name": "SMG-37 Defender",
             "description": "",
             "category": "primary",
@@ -59,6 +63,7 @@
             "page": 3
         },
         {
+            "id": 4,
             "name": "SG-8 Punisher",
             "description": "",
             "category": "primary",
@@ -76,6 +81,7 @@
             "page": 1
         },
         {
+            "id": 5,
             "name": "SG-225 Breaker",
             "description": "",
             "category": "primary",
@@ -93,6 +99,7 @@
             "page": 4
         },
         {
+            "id": 6,
             "name": "LAS-5 Scythe",
             "description": "",
             "category": "primary",
@@ -105,6 +112,7 @@
             "page": 5
         },
         {
+            "id": 7,
             "name": "AR-23P Liberator Penetrator",
             "description": "",
             "category": "primary",
@@ -117,6 +125,7 @@
             "page": 6
         },
         {
+            "id": 8,
             "name": "R-63CS Diligence Counter Sniper",
             "description": "",
             "category": "primary",
@@ -134,6 +143,7 @@
             "page": 7
         },
         {
+            "id": 9,
             "name": "SG-8S Slugger",
             "description": "",
             "category": "primary",
@@ -151,6 +161,7 @@
             "page": 8
         },
         {
+            "id": 10,
             "name": "SG-225SP Breaker Spray & Pray",
             "description": "",
             "category": "primary",
@@ -168,6 +179,7 @@
             "page": 9
         },
         {
+            "id": 11,
             "name": "PLAS-1 Scorcher",
             "description": "",
             "category": "primary",
@@ -185,6 +197,7 @@
             "page": 10
         },
         {
+            "id": 12,
             "name": "AR-23E Liberator Concussive",
             "description": "",
             "category": "primary",
@@ -197,6 +210,7 @@
             "page": 1
         },
         {
+            "id": 13,
             "name": "SG-225IE Breaker Incendiary",
             "description": "",
             "category": "primary",
@@ -214,6 +228,7 @@
             "page": 2
         },
         {
+            "id": 14,
             "name": "JAR-5 Dominator",
             "description": "",
             "category": "primary",
@@ -231,6 +246,7 @@
             "page": 3
         },
         {
+            "id": 15,
             "name": "LAS-16 Sickle",
             "description": "",
             "category": "primary",
@@ -243,6 +259,7 @@
             "page": 1
         },
         {
+            "id": 16,
             "name": "SG-8P Punisher Plasma",
             "description": "",
             "category": "primary",
@@ -255,6 +272,7 @@
             "page": 2
         },
         {
+            "id": 17,
             "name": "ARC-12 Blitzer",
             "description": "",
             "category": "primary",
@@ -267,6 +285,7 @@
             "page": 3
         },
         {
+            "id": 18,
             "name": "BR-14 Adjudicator",
             "description": "",
             "category": "primary",
@@ -279,6 +298,7 @@
             "page": 1
         },
         {
+            "id": 19,
             "name": "R-36 Eruptor",
             "description": "",
             "category": "primary",
@@ -291,6 +311,7 @@
             "page": 2
         },
         {
+            "id": 20,
             "name": "CB-9 Exploding Crossbow",
             "description": "",
             "category": "primary",
@@ -303,6 +324,7 @@
             "page": 3
         },
         {
+            "id": 21,
             "name": "AR-61 Tenderiser",
             "description": "",
             "category": "primary",
@@ -315,6 +337,7 @@
             "page": 1
         },
         {
+            "id": 22,
             "name": "SMG-72 Pummeller",
             "description": "",
             "category": "primary",
@@ -327,6 +350,7 @@
             "page": 2
         },
         {
+            "id": 23,
             "name": "PLAS-101 Purifier",
             "description": "",
             "category": "primary",
@@ -344,6 +368,7 @@
             "page": 3
         },
         {
+            "id": 24,
             "name": "AR-23A Liberator Carbine",
             "description": "",
             "category": "primary",
@@ -356,6 +381,7 @@
             "page": 1
         },
         {
+            "id": 25,
             "name": "SG-451 Cookout",
             "description": "",
             "category": "primary",
@@ -373,6 +399,7 @@
             "page": 1
         },
         {
+            "id": 26,
             "name": "FLAM-66 Torcher",
             "description": "",
             "category": "primary",
@@ -386,6 +413,7 @@
         },
 
         {
+            "id": 27,
             "name": "R-2124 Constitution",
             "description": "",
             "category": "primary",
@@ -398,6 +426,7 @@
             "page": 0
         },
         {
+            "id": 28,
             "name": "SG-20 Halt",
             "description": "",
             "category": "primary",
@@ -416,6 +445,7 @@
             "page": 1
         },
         {
+            "id": 29,
             "name": "SMG-32 Reprimand",
             "description": "",
             "category": "primary",
@@ -428,42 +458,7 @@
             "page": 2
         },
         {
-            "name": "StA-52 Assault Rifle",
-            "description": "",
-            "category": "primary",
-            "sub-category": "Assault Rifle",
-            "stats": { "damage": 70, "capacity": 56, "recoil": 19, "fire rate": 790 },
-            "traits": "Light Armor Penetrating",
-            "price": 615,
-            "warbond": "None",
-            "premium": true,
-            "page": 0
-        },
-        {
-            "name": "StA-11 SMG",
-            "description": "",
-            "category": "primary",
-            "sub-category": "Submachine Gun",
-            "stats": { "damage": 65, "capacity": 48, "recoil": 13, "fire rate": 1050 },
-            "traits": "Light Armor Penetrating,One Handed",
-            "price": 0,
-            "warbond": "None",
-            "premium": true,
-            "page": 0
-        },
-        {
-            "name": "PLAS-39 Accelerator Rifle",
-            "description": "",
-            "category": "primary",
-            "sub-category": "Sniper Rifle",
-            "stats": { "damage": 350, "capacity": 9, "recoil": 3, "fire rate": 550 },
-            "traits": "Medium Armor Penetrating,Explosive",
-            "price": 0,
-            "warbond": "None",
-            "premium": true,
-            "page": 0
-        },
-        {
+            "id": 33,
             "name": "LAS-17 Double-edge Sickle",
             "description": "",
             "category": "primary",
@@ -476,6 +471,7 @@
             "page": 1
         },
         {
+            "id": 34,
             "name": "R-6 Deadeye",
             "description": "",
             "category": "primary",
@@ -488,6 +484,7 @@
             "page": 1
         },
         {
+            "id": 35,
             "name": "R-2 Amendment",
             "description": "",
             "category": "primary",
@@ -500,7 +497,8 @@
             "page": 1
         },
         {
-            "name": "AR-32",
+            "id": 36,
+            "name": "AR-32 Pacifier",
             "description": "",
             "category": "primary",
             "sub-category": "Assault Rifle",
@@ -512,6 +510,7 @@
             "page": 1
         },
         {
+            "id": 37,
             "name": "VG-70 Variable",
             "description": "",
             "category": "primary",
@@ -524,6 +523,33 @@
             "page": 1
         },
         {
+            "id": 41,
+            "name": "AR-2 Coyote",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 75, "capacity": 45, "recoil": 19.75, "fire rate": 600 },
+            "traits": "Medium Armor Penetrating,Incendiary",
+            "price": 35,
+            "warbond": "Dust Devils",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 42,
+            "name": "AR/GL-21 One-Two",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 95, "capacity": 40, "recoil": 13, "fire rate": 650 },
+            "traits": "Light Armor Penetrating,Explosive",
+            "price": 35,
+            "warbond": "Python Commandos",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 38,
             "name": "MA5C Assault Rifle",
             "description": "",
             "category": "primary",
@@ -536,6 +562,7 @@
             "page": 1
         },
         {
+            "id": 39,
             "name": "M7S SMG",
             "description": "",
             "category": "primary",
@@ -548,6 +575,7 @@
             "page": 2
         },
         {
+            "id": 40,
             "name": "M90A Shotgun",
             "description": "",
             "category": "primary",
@@ -558,10 +586,128 @@
             "warbond": "Obedient Democracy Support Troopers",
             "premium": true,
             "page": 3
+        },
+        {
+            "id": 30,
+            "name": "StA-52 Assault Rifle",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 70, "capacity": 56, "recoil": 19, "fire rate": 790 },
+            "traits": "Light Armor Penetrating",
+            "price": 35,
+            "warbond": "Righteous Revenants",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 31,
+            "name": "StA-11 SMG",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Submachine Gun",
+            "stats": { "damage": 65, "capacity": 48, "recoil": 13, "fire rate": 1050 },
+            "traits": "Light Armor Penetrating,One Handed",
+            "price": 65,
+            "warbond": "Righteous Revenants",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 32,
+            "name": "PLAS-39 Accelerator Rifle",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Sniper Rifle",
+            "stats": { "damage": 350, "capacity": 9, "recoil": 3, "fire rate": 550 },
+            "traits": "Medium Armor Penetrating,Explosive",
+            "price": 50,
+            "warbond": "Righteous Revenants",
+            "premium": true,
+            "page": 2
+        },
+        {
+            "id": 43,
+            "name": "R-72 Censor",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Marksman Rifle",
+            "stats": { "damage": 165, "capacity": 20, "recoil": 12.5, "fire rate": 400 },
+            "traits": "Light Armor Penetrating,Suppressed",
+            "price": 35,
+            "warbond": "Redacted Regiment",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 44,
+            "name": "AR-59 Suppressor",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 80, "capacity": 45, "recoil": 13.25, "fire rate": 850 },
+            "traits": "Light Armor Penetrating,Suppressed",
+            "price": 50,
+            "warbond": "Redacted Regiment",
+            "premium": true,
+            "page": 2
+        },
+        {
+            "id": 45,
+            "name": "LAS-16 Trident",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Shotgun",
+            "stats": { "damage": 360, "capacity": 10, "recoil": 4.25, "fire rate": 300 },
+            "traits": "Light Armor Penetrating",
+            "price": 35,
+            "warbond": "Siege Breakers",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 46,
+            "name": "SMG/FLAM-34 Stoker",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Submachine Gun",
+            "stats": { "damage": 130, "capacity": 45, "recoil": 8.75, "fire rate": 420 },
+            "traits": "Light Armor Penetrating,One Handed,Incendiary",
+            "price": 35,
+            "warbond": "Entrenched Division",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 47,
+            "name": "SMG-203 Gallant",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Submachine Gun",
+            "stats": { "damage": 65, "capacity": 50, "recoil": 15, "fire rate": 1380 },
+            "traits": "Medium Armor Penetrating,One Handed",
+            "price": 35,
+            "warbond": "Exo Experts",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 48,
+            "name": "R/40-K Hot-Shot Marksman Rifle",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Marksman Rifle",
+            "stats": { "damage": 275, "capacity": 12, "recoil": 19, "fire rate": 210 },
+            "traits": "Medium Armor Penetrating",
+            "price": 35,
+            "warbond": "Castellan's Creed",
+            "premium": true,
+            "page": 1
         }
     ],
     "Secondary Weaponry": [
         {
+            "id": 0,
             "name": "P-2 Peacemaker",
             "description": "",
             "category": "secondary",
@@ -574,6 +720,7 @@
             "page": 0
         },
         {
+            "id": 1,
             "name": "P-19 Redeemer",
             "description": "",
             "category": "secondary",
@@ -591,6 +738,7 @@
             "page": 2
         },
         {
+            "id": 2,
             "name": "P-4 Senator",
             "description": "",
             "category": "secondary",
@@ -603,6 +751,7 @@
             "page": 1
         },
         {
+            "id": 3,
             "name": "LAS-7 Dagger",
             "description": "",
             "category": "secondary",
@@ -615,6 +764,7 @@
             "page": 3
         },
         {
+            "id": 4,
             "name": "GP-31 Grenade Pistol",
             "description": "",
             "category": "secondary",
@@ -627,6 +777,7 @@
             "page": 3
         },
         {
+            "id": 5,
             "name": "P-113 Verdict",
             "description": "",
             "category": "secondary",
@@ -644,6 +795,7 @@
             "page": 3
         },
         {
+            "id": 6,
             "name": "SG-22 Bushwhacker",
             "description": "",
             "category": "secondary",
@@ -661,6 +813,7 @@
             "page": 2
         },
         {
+            "id": 7,
             "name": "P-72 Crisper",
             "description": "",
             "category": "secondary",
@@ -673,6 +826,7 @@
             "page": 3
         },
         {
+            "id": 8,
             "name": "P-11 Stim Pistol",
             "description": "",
             "category": "secondary",
@@ -685,6 +839,7 @@
             "page": 3
         },
         {
+            "id": 9,
             "name": "PLAS-15 Loyalist",
             "description": "",
             "category": "secondary",
@@ -697,6 +852,7 @@
             "page": 3
         },
         {
+            "id": 10,
             "name": "CQC-19 Stun Lance",
             "description": "",
             "category": "secondary",
@@ -709,6 +865,7 @@
             "page": 1
         },
         {
+            "id": 11,
             "name": "Stun Baton",
             "description": "",
             "category": "secondary",
@@ -721,6 +878,7 @@
             "page": 0
         },
         {
+            "id": 12,
             "name": "GP-31 Ultimatum",
             "description": "",
             "category": "secondary",
@@ -733,6 +891,7 @@
             "page": 2
         },
         {
+            "id": 13,
             "name": "CQC-5 Combat Hatchet",
             "description": "",
             "category": "secondary",
@@ -745,6 +904,7 @@
             "page": 0
         },
         {
+            "id": 14,
             "name": "LAS-58 Talon",
             "description": "",
             "category": "secondary",
@@ -757,6 +917,7 @@
             "page": 2
         },
         {
+            "id": 15,
             "name": "CQC-2 Saber",
             "description": "",
             "category": "secondary",
@@ -769,6 +930,7 @@
             "page": 2
         },
         {
+            "id": 16,
             "name": "P-92 Warrant",
             "description": "",
             "category": "secondary",
@@ -781,6 +943,7 @@
             "page": 0
         },
         {
+            "id": 17,
             "name": "M6C/SOCOM Pistol",
             "description": "",
             "category": "secondary",
@@ -791,121 +954,224 @@
             "warbond": "Obedient Democracy Support Troopers",
             "premium": true,
             "page": 3
+        },
+        {
+            "id": 18,
+            "name": "P-35 Re-Educator",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 60, "capacity": 6, "recoil": 10, "fire rate": 110 },
+            "traits": "One Handed,Caustic,Heavy Armor Penetrating",
+            "price": 20,
+            "warbond": "Redacted Regiment",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 19,
+            "name": "CQC-73 Entrenchment Tool",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "melee",
+            "stats": { "recoil": 8 },
+            "traits": "Medium Armor Penetrating,One Handed",
+            "price": 20,
+            "warbond": "Entrenched Division",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 20,
+            "name": "P-69 Veto",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 105, "capacity": 12, "recoil": 30, "fire rate": 750 },
+            "traits": "Medium Armor Penetrating,One Handed",
+            "price": 65,
+            "warbond": "Entrenched Division",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 21,
+            "name": "P-33 Missile Pistol",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 1000, "capacity": 1, "recoil": 313, "fire rate": 60 },
+            "traits": "Medium Armor Penetrating,Anti-Tank,One Handed,Guided,Explosive",
+            "price": 50,
+            "warbond": "Exo Experts",
+            "premium": true,
+            "page": 2
+        },
+        {
+            "id": 22,
+            "name": "P/40-K Bolt Pistol",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 325, "capacity": 6, "recoil": 325, "fire rate": 150 },
+            "traits": "Heavy Armor Penetrating,Explosive,One Handed",
+            "price": 50,
+            "warbond": "Castellan's Creed",
+            "premium": true,
+            "page": 2
         }
     ],
     "Armor Passives": [
         {
+            "id": 0,
             "passive": "Democracy Protects",
             "passive-description": "50% less chance of getting killed by lethal damage and prevents bleeding from chest hemorrhages"
         },
         {
+            "id": 1,
             "passive": "Engineering Kit",
             "passive-description": "Reduces recoil while crouching or laying down by 30% and increases grenade capacity by 2"
         },
         {
+            "id": 2,
             "passive": "Extra Padding",
             "passive-description": "Increases Armor Rating"
         },
         {
+            "id": 3,
             "passive": "Fortified",
             "passive-description": "Reduces recoil while crouching or laying down by 30% while granting 50% resistance to explosions"
         },
         {
+            "id": 4,
             "passive": "Med Kit",
             "passive-description": "Increases Stim capacity by 2 and increases their duration by two seconds"
         },
         {
+            "id": 5,
             "passive": "Servo-Assisted",
             "passive-description": "Increases grenade throwing range by 30% and adds 50% bonus to limb health"
         },
         {
+            "id": 6,
             "passive": "Scout",
             "passive-description": "Markers placed on maps scan the area every two seconds, reduces enemy detection by 30%"
         },
         {
+            "id": 7,
             "passive": "Electrical Conduit",
             "passive-description": "Provides 95% resistance to arc damage."
         },
         {
+            "id": 8,
             "passive": "Peak Physique",
             "passive-description": "Increases melee damage by 50%. Improves weapons handling with less drag on weapon movement."
         },
         {
+            "id": 9,
             "passive": "Inflammable",
             "passive-description": "Provides 75% damage resistance to fire, allowing bearer to rest assured in their inflammability."
         },
         {
+            "id": 10,
             "passive": "Advanced Filtration",
             "passive-description": "Provides 80% resistance to gas damage and effects."
         },
         {
+            "id": 11,
             "passive": "Unflinching",
             "passive-description": "Reduces the amount of aim punch from taking damage while firing a weapon by 95%, reducing the amount of camera shake along with it. Also decreases the amount of time required for your Helldiver to maniacly laugh while constinuously firing their weapon by 1 second."
         },
         {
+            "id": 12,
             "passive": "Acclimated",
             "passive-description": "Provides 50% resistance to fire, gas, acid, and electrical damage."
         },
         {
+            "id": 13,
             "passive": "Siege-Ready",
             "passive-description": "Increases reload speed of primary weapons by 30%. Increases ammo capacity of primary weapons by 20%."
         },
         {
+            "id": 14,
             "passive": "Integrated Explosives",
             "passive-description": "Armor explodes 1.5s after the wearer dies."
         },
         {
+            "id": 15,
             "passive": "Gunslinger",
             "passive-description": "Increases sidearms reload speed by 40%.  Sidearm draw/holster speed increased by 50%. Sidearm recoil reduced by 70%."
         },
         {
+            "id": 16,
             "passive": "Reinforced Epaulettes",
             "passive-description": "Increases reload speed of primary weapons by 30%. Gives wearer a 50% chance to avoid grievous limb injury. Increases melee damage by 50%."
         },
         {
+            "id": 17,
             "passive": "Ballistic Padding",
             "passive-description": "Provides 25% resistance to chest damage. Provides 25% resistance to explosive damage. Prevents all damage from bleeding if chest hemorrhages."
         },
         {
+            "id": 18,
             "passive": "Adreno-Defibrillator",
             "passive-description": "Provides one-time, short-lived resuscitation upon death, given that the Helldiver's body is still intact. Increases stim effect duration by 2.0s. Provides 50%  resistance to arc damage."
         },
         {
+            "id": 19,
             "passive": "Feet First",
             "passive-description": "Wearer makes 50% less noise when moving. Increases point-of-interest identification range by 30%. Provides immunity to leg injuries."
         },
-                {
+        {
+            "id": 20,
             "passive": "Desert Stormer",
             "passive-description": "Provides 40% resistance to fire, gas, acid, and electrical damage. Increases throwing range by 20%."
         },
         {
-            "passive": "Rock Solid",
+            "id": 21,
+            "passive": "Rock-Solid",
             "passive-description": "Increases melee damage by 40%. Bearer is more resistant to being knocked prone."
         },
         {
+            "id": 22,
             "passive": "Reduced Signature",
             "passive-description": "Wearer makes 50% less noise when moving. Reduces range at which enemies can detect the wearer by 40%."
         },
         {
-            "passive": "Supplementary Adrenaline",
+            "id": 23,
+            "passive": "Supplemental Adrenaline",
             "passive-description": "When the wearer takes damage, they regain some stamina. Provides a higher armor rating."
         },
         {
+            "id": 24,
             "passive": "Concussive Padding, Reinforced",
             "passive-description": "Provides 50% resistance to explosive damage. Provides a higher armor rating."
         },
         {
+            "id": 25,
             "passive": "Concussive Padding, Hazmat",
             "passive-description": "Provides 50% resistance to explosive damage. Provides 25% resistance to gas damage and effects. Sidearm recoil reduced by 30%."
         },
         {
+            "id": 26,
             "passive": "Concussive Padding, Grenadier",
             "passive-description": "Provides 50% resistance to explosive damage. Increases initial inventory and holding capacity of throwables by +2."
+        },
+        {
+            "id": 27,
+            "passive": "Oxygenator",
+            "passive-description": "Increases the wearer's walking speed and running speed. Increases the speed and duration of slides."
+        },
+        {
+            "id": 28,
+            "passive": "True Grit",
+            "passive-description": "Increases reload speed of support weapons by 30%. Slightly increases weapon ergonomics to reduce drag on weapon movement."
         }
     ],
     "Armor Types": ["light", "medium", "heavy"],
     "Grenades": [
         {
+            "id": 0,
             "name": "G-12 High Explosive",
             "description": "",
             "category": "",
@@ -922,6 +1188,7 @@
             "page": 0
         },
         {
+            "id": 1,
             "name": "G-6 Frag",
             "description": "",
             "category": "",
@@ -938,6 +1205,7 @@
             "page": 1
         },
         {
+            "id": 2,
             "name": "G-16 Impact",
             "description": "",
             "category": "",
@@ -954,6 +1222,7 @@
             "page": 5
         },
         {
+            "id": 3,
             "name": "G-3 Smoke",
             "description": "",
             "category": "",
@@ -970,6 +1239,7 @@
             "page": 8
         },
         {
+            "id": 4,
             "name": "G-10 Incendiary",
             "description": "",
             "category": "",
@@ -986,6 +1256,7 @@
             "page": 2
         },
         {
+            "id": 5,
             "name": "G-23 Stun",
             "description": "",
             "category": "",
@@ -1002,6 +1273,7 @@
             "page": 2
         },
         {
+            "id": 6,
             "name": "G-123 Thermite",
             "description": "",
             "category": "",
@@ -1018,6 +1290,7 @@
             "page": 1
         },
         {
+            "id": 7,
             "name": "G-13 Incendiary Impact",
             "description": "",
             "category": "",
@@ -1034,6 +1307,7 @@
             "page": 2
         },
         {
+            "id": 8,
             "name": "K-2 Throwing Knife",
             "description": "",
             "category": "",
@@ -1045,6 +1319,7 @@
             "page": 3
         },
         {
+            "id": 9,
             "name": "G-4 Gas",
             "description": "",
             "category": "",
@@ -1061,6 +1336,7 @@
             "page": 1
         },
         {
+            "id": 10,
             "name": "G-50 Seeker",
             "description": "",
             "category": "",
@@ -1076,6 +1352,7 @@
             "page": 3
         },
         {
+            "id": 11,
             "name": "TED-63 Dynamite",
             "description": "",
             "category": "",
@@ -1092,6 +1369,7 @@
             "page": 3
         },
         {
+            "id": 12,
             "name": "G-142 Pyrotech",
             "description": "",
             "category": "",
@@ -1107,6 +1385,7 @@
             "page": 3
         },
         {
+            "id": 13,
             "name": "G-109 Urchin",
             "description": "",
             "category": "",
@@ -1122,6 +1401,7 @@
             "page": 3
         },
         {
+            "id": 14,
             "name": "G-31 Arc",
             "description": "",
             "category": "",
@@ -1135,10 +1415,91 @@
             "warbond": "Control Group",
             "premium": true,
             "page": 3
+        },
+        {
+            "id": 15,
+            "name": "G-7 Pineapple",
+            "description": "",
+            "category": "",
+            "stats": {
+                "damage": 300,
+                "penetration": 4,
+                "outer radius": 4
+            },
+            "traits": "",
+            "price": 65,
+            "warbond": "Dust Devils",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 16,
+            "name": "TM-1 Lure Mine",
+            "description": "",
+            "category": "",
+            "stats": {
+                "damage": 1000,
+                "penetration": 5,
+                "outer radius": 8
+            },
+            "traits": "Anti-Tank,Sticky,Explosive",
+            "price": 65,
+            "warbond": "Redacted Regiment",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 17,
+            "name": "G/SH-39 Shield",
+            "description": "",
+            "category": "",
+            "stats": {
+                "damage": 0,
+                "penetration": 0,
+                "outer radius": 1.8
+            },
+            "traits": "Sticky",
+            "price": 65,
+            "warbond": "Siege Breakers",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 18,
+            "name": "G-48 Giga Grenade",
+            "description": "",
+            "category": "",
+            "stats": {
+                "damage": 2000,
+                "penetration": 8,
+                "outer radius": 12
+            },
+            "traits": "Explosive,Anti-Tank",
+            "price": 50,
+            "warbond": "Entrenched Division",
+            "premium": true,
+            "page": 2
+        },
+        {
+            "id": 19,
+            "name": "G/40-K Melta Mine",
+            "description": "",
+            "category": "",
+            "stats": {
+                "damage": 2000,
+                "penetration": 8,
+                "outer radius": 6
+            },
+            "traits": "Explosive,Anti-Tank",
+            "price": 50,
+            "warbond": "Castellan's Creed",
+            "premium": true,
+            "page": 2
         }
     ],
     "Stratagems": [
         {
+            "id": 0,
             "name": "Machine Gun",
             "descriptive-name": "MG-43 Machine Gun",
             "description": "A machine gun designed for stationary use. Trades higher power for increased recoil and reduced accuracy.",
@@ -1154,6 +1515,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 1,
             "name": "Anti-Materiel Rifle",
             "descriptive-name": "APW-1 Anti-Materiel Rifle",
             "description": "A high caliber sniper rifle effective over long distances against light vehicle armor. This rifle must be aimed downscope.",
@@ -1169,6 +1531,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 2,
             "name": "Stalwart",
             "descriptive-name": "M-105 Stalwart",
             "description": "A compact, low caliber machine gun. Trades power for ease of use, with faster reloading than heavier machine guns.",
@@ -1184,6 +1547,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 3,
             "name": "Expendable Anti-Tank",
             "descriptive-name": "EAT-17 Expendable Anti-tank",
             "description": "A single-use weapon specialized for damaging vehicle armor. Discarded after every use.",
@@ -1199,6 +1563,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 4,
             "name": "Recoilless Rifle",
             "descriptive-name": "GR-8 Recoilless Rifle",
             "description": "A recoilless rifle effective against vehicle armor. Includes support backpack required for reloading.",
@@ -1214,6 +1579,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 5,
             "name": "Flamethrower",
             "descriptive-name": "FLAM-40 Flamethrower",
             "description": "An incendiary weapon for close range. Will ignite targets, terrain, and any flammable teammates.",
@@ -1229,6 +1595,7 @@
             "traits": "Hellpod,Incendiary"
         },
         {
+            "id": 6,
             "name": "Autocannon",
             "descriptive-name": "AC-8 Autocannon",
             "description": "A fully-automatic cannon effective against light vehicle armor. Includes support backpack required for reloading.",
@@ -1244,6 +1611,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 7,
             "name": "Railgun",
             "descriptive-name": "RS-422 Railgun",
             "description": "An experimental weapon which prioritizes armor penetration. Must be charged between shots - so choose targets carefully.",
@@ -1259,6 +1627,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 8,
             "name": "Spear",
             "descriptive-name": "FAF-14 SPEAR Launcher",
             "description": "An anti-tank homing missle which must lock onto its target before launch. Effective against large and armored enemies.",
@@ -1274,6 +1643,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 9,
             "name": "Orbital Gatling Barrage",
             "descriptive-name": "Orbital Gatling Barrage",
             "description": "A barrage of high explosive rounds, fired from the Destroyer's high speed rotary autocannons.",
@@ -1289,6 +1659,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 10,
             "name": "Orbital Airburst Strike",
             "descriptive-name": "Orbital Airburst Strike",
             "description": "A projectile which explodes while airborne, creating a deadly rain of shrapnel. Not effective against heavy armor.",
@@ -1304,6 +1675,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 11,
             "name": "Orbital 120MM HE Barrage",
             "descriptive-name": "Orbital 120MM HE Barrage",
             "description": "A precision artillery salvo over a small area, perfect for taking out concentrated enemy units.",
@@ -1319,6 +1691,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 12,
             "name": "Orbital 380MM HE Barrage",
             "descriptive-name": "Orbital 380MM HE Barrage",
             "description": "A prolonged barrage, wreaking extended destruction over a large area. Communication with teammates is advised.",
@@ -1334,6 +1707,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 13,
             "name": "Orbital Walking Barrage",
             "descriptive-name": "Orbital Walking Barrage",
             "description": "A linear artillery barrage which moves at intervals, driving the enemy out from cover while allowing an advance.",
@@ -1349,6 +1723,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 14,
             "name": "Orbital Laser",
             "descriptive-name": "Orbital Laser",
             "description": "The Destroyer's laser cannon will sweep over the designated area, vaporizing all targets within the effective radius.",
@@ -1364,6 +1739,7 @@
             "traits": ""
         },
         {
+            "id": 15,
             "name": "Orbital Railcannon Strike",
             "descriptive-name": "Orbital Railcannon Strike",
             "description": "A high-velocity railcannon round fired at the largest target in close proximity to the beacon. Targeting is automatic.",
@@ -1379,6 +1755,7 @@
             "traits": ""
         },
         {
+            "id": 16,
             "name": "Eagle Strafing Run",
             "descriptive-name": "Eagle Strafing Run",
             "description": "A strafing run of the battlefield to clear small targets, delivered almost instantly.",
@@ -1394,6 +1771,7 @@
             "traits": ""
         },
         {
+            "id": 17,
             "name": "Eagle Airstrike",
             "descriptive-name": "Eagle Airstrike",
             "description": "A barrage of bombs creating a non-targeted carpet of explosions.",
@@ -1409,6 +1787,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 18,
             "name": "Eagle Cluster Bomb",
             "descriptive-name": "Eagle Cluster Bomb",
             "description": "A targeted air strike unable to destroy buildings, but efficient at clearing smaller targets.",
@@ -1424,6 +1803,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 19,
             "name": "Eagle Napalm Airstrike",
             "descriptive-name": "Eagle Napalm Airstrike",
             "description": "A barrage of napalm bombs, creating a wall of fire which will stop the enemy in their tracks.",
@@ -1439,6 +1819,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 20,
             "name": "Jump Pack",
             "descriptive-name": "LIFT-850 Jump Pack",
             "description": "Enables the user to jump higher than 'gravity' and 'safety' would normally allow. Must be charged before use.",
@@ -1454,6 +1835,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 21,
             "name": "Eagle Smoke Strike",
             "descriptive-name": "Eagle Smoke Strike",
             "description": "A barrage of smoke grenades, creating a thick smoke screen to block enemies' line of sight.",
@@ -1469,6 +1851,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 22,
             "name": "Eagle 110MM Rocket Pods",
             "descriptive-name": "Eagle 110MM Rocket Pods",
             "description": "A barrage of rocket pods, which the Eagle pilot will release on the largest target near the stratagem beacon.",
@@ -1484,6 +1867,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 23,
             "name": "Eagle 500kg Bomb",
             "descriptive-name": "Eagle 500kg Bomb",
             "description": "A large bomb obliterating almost any target close to impact. Make sure to clear the area.",
@@ -1499,6 +1883,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 24,
             "name": "Orbital Precision Strike",
             "descriptive-name": "Orbital Precision Strike",
             "description": "A single precision shot from the Destroyer's 'ATLAS' cannon.",
@@ -1514,6 +1899,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 25,
             "name": "Orbital Gas Strike",
             "descriptive-name": "Orbital Gas Strike",
             "description": "A projectile which releases a cloud of corrosive gas, harmful to both organic and robotic lifeforms.",
@@ -1529,6 +1915,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 26,
             "name": "Orbital EMS Strike",
             "descriptive-name": "Orbital EMS Strike",
             "description": "A \"\"compliance weapon\"\" to modify enemy behavior. The projectile temporarily stuns all targets within the strike radius.",
@@ -1544,6 +1931,7 @@
             "traits": ""
         },
         {
+            "id": 27,
             "name": "Orbital Smoke Strike",
             "descriptive-name": "Orbital Smoke Strike",
             "description": "Creates a large, thick smoke screen to block targets' line of sight.",
@@ -1559,6 +1947,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 28,
             "name": "HMG Emplacement",
             "descriptive-name": "E/MG-101 HMG Emplacement",
             "description": "A manned fortification offering superior firepower against lightly armored targets. Slow to turn, so place it wisely.",
@@ -1574,6 +1963,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 29,
             "name": "Shield Generator Relay",
             "descriptive-name": "FX-12 Shield Generator Relay",
             "description": "A stationary energy shield which provides cover against projectiles. has a limited lifetime once deployed.",
@@ -1589,6 +1979,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 30,
             "name": "Tesla Tower",
             "descriptive-name": "A/ARC-3 Tesla Tower",
             "description": "A turret which fires electrical charges at targets in close range. To avoid friendly fire, remain prone.",
@@ -1604,6 +1995,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 31,
             "name": "Anti-Personnel Minefield",
             "descriptive-name": "MD-6 Anti-Personnel Minefield",
             "description": "Deploys a defensive anti-personnel minefield, to halt enemy advance.",
@@ -1619,6 +2011,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 32,
             "name": "Supply Pack",
             "descriptive-name": "B-1 Supply Pack",
             "description": "Supply boxes containing ammunition, with a backpack that allows the user to distribute boxes to fellow Helldivers.",
@@ -1634,6 +2027,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 33,
             "name": "Grenade Launcher",
             "descriptive-name": "GL-21 Grenade Launcher",
             "description": "A grenade launcher effective against armored infantry. Not intended for use against vehicle armor or fortified buildings.",
@@ -1649,6 +2043,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 34,
             "name": "Laser Cannon",
             "descriptive-name": "LAS-98 Laser Cannon",
             "description": "A laser weapon firing a continuous beam. Doesn't require ammunition, but will need heat sink replaced if it overheats.",
@@ -1664,6 +2059,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 35,
             "name": "Incendiary Mines",
             "descriptive-name": "MD-I4 Incendiary Mines",
             "description": "Deploys a defensive incendiary minefield, which will set both terrain and targets alight when triggered.",
@@ -1679,6 +2075,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 36,
             "name": "\"Guard Dog\" Rover",
             "descriptive-name": "AX/LAS-5 \"Guard Dog\" Rover",
             "description": "An autonomous drone equipped with a laser rifle, providing 360Â° cover. Returns to backpack to cool down.",
@@ -1694,6 +2091,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 37,
             "name": "Ballistic Shield Backpack",
             "descriptive-name": "SH-20 Ballistic Shield Backpack",
             "description": "A backpack which can be wielded as a one-handed ballistic shield, protecting against small arms fire.",
@@ -1709,6 +2107,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 38,
             "name": "Arc Thrower",
             "descriptive-name": "ARC-3 Arc Thrower",
             "description": "Projects an arc of lightning at close range. Charges up to project bolts, and may discharge through multiple targets.",
@@ -1724,6 +2123,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 39,
             "name": "Shield Generator Pack",
             "descriptive-name": "SH-32 Shield Generator Pack",
             "description": "Encloses the wearer in a spherical shield which blocks high-speed projectiles. Has a limited lifetime once deployed.",
@@ -1739,6 +2139,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 40,
             "name": "Machine Gun Sentry",
             "descriptive-name": "A/MG-43 Machine Gun Sentry",
             "description": "An agile automated machine gun turret. Will fire at targets even if Helldivers will be caught in the crossfire.",
@@ -1754,6 +2155,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 41,
             "name": "Gatling Sentry",
             "descriptive-name": "A/G-16 Gatling Sentry",
             "description": "An automated turret with an extremely high rate of fire. Caution: does not check if friendly units are in line of fire.",
@@ -1769,6 +2171,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 42,
             "name": "Mortar Sentry",
             "descriptive-name": "A/M-12 Mortar Sentry",
             "description": "A turret firing powerful shells in a high arc. Effective at long ranges, and able to strike at targets behind cover.",
@@ -1784,6 +2187,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 43,
             "name": "\"Guard Dog\"",
             "descriptive-name": "AX/AR-23 \"Guard Dog\"",
             "description": "An autonomous drone equipped with a Liberator assault rifle, providing 360Â° cover. Returns to backpack to rearm.",
@@ -1799,6 +2203,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 44,
             "name": "Autocannon Sentry",
             "descriptive-name": "A/AC-8 Autocannon Sentry",
             "description": "An automated cannon turret firing anti-tank ammunition over long ranges. Sacrifice agility for range and power.",
@@ -1814,6 +2219,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 45,
             "name": "Rocket Sentry",
             "descriptive-name": "A/MLS-4X Rocket Sentry",
             "description": "A powerful automated turret, effective against armored targets. The turret will primarily aim at larger enemies.",
@@ -1829,6 +2235,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 46,
             "name": "EMS Mortar Sentry",
             "descriptive-name": "A/M-23 EMS Mortar Sentry",
             "description": "A turret firing static field generators that slow the advance of enemies.",
@@ -1844,6 +2251,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 47,
             "name": "Patriot Exosuit",
             "descriptive-name": "EXO-45 Patriot Exosuit",
             "description": "A heavily-armored walking exosuit equipped with a rocket launcher and a heavy machine gun.",
@@ -1859,6 +2267,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 48,
             "name": "Heavy Machine Gun",
             "descriptive-name": "MG-206 Heavy Machine Gun",
             "description": "A very powerful but difficult-to-wield machine gun with intense recoil.",
@@ -1874,6 +2283,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 49,
             "name": "Quasar Cannon",
             "descriptive-name": "LAS-99 Quasar Cannon",
             "description": "Charges up to fire a powerful, explosive energy burst.  Has a long cooldown period after firing.",
@@ -1889,6 +2299,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 50,
             "name": "Airburst Rocket Launcher",
             "descriptive-name": "RL-77 Airburst Rocket Launcher",
             "description": "Fires a rocket that detonates within proximity of a target, and deploys a cluster of explosive bomblets.",
@@ -1904,6 +2315,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 51,
             "name": "Emancipator Exosuit",
             "descriptive-name": "EXO-49 Emancipator Exosuit",
             "description": "A heavily-armored walking exosuit equipped with dual autocannons.",
@@ -1919,6 +2331,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 52,
             "name": "Commando",
             "descriptive-name": "MLS-4X Commando",
             "description": "An expendable missile launcher equipped with four laser-guided missiles.",
@@ -1934,6 +2347,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 53,
             "name": "Anti-Tank Mines",
             "descriptive-name": "Anti-Tank Mines",
             "description": "Scatters powerful anti-tank mines that deal heavy, armor-penetrating damage. Minefield is less densely packed relative to smaller mines.",
@@ -1949,6 +2363,7 @@
             "traits": "Hellpod,Explosive"
         },
         {
+            "id": 54,
             "name": "Sterilizer",
             "descriptive-name": "TX-41 Sterilizer",
             "description": "Atomizes caustic chemicals into a fine mist that liquifies sensitive electronics and tissues. Blinds and slows most enemies.",
@@ -1964,6 +2379,7 @@
             "traits": "Hellpod,Caustic"
         },
         {
+            "id": 55,
             "name": "\"Guard Dog\" Dog Breath",
             "descriptive-name": "AX/TX-13 \"Guard Dog\" Dog Breath",
             "description": "A done that defends its user by firing caustic gas at nearby enemies. Returns to backpack to refill.",
@@ -1979,6 +2395,7 @@
             "traits": "Caustic"
         },
         {
+            "id": 56,
             "name": "Orbital Napalm Barrage",
             "descriptive-name": "Orbital Napalm Barrage",
             "description": "Launches a prolonged barrage of napalm shells over a wide area, setting a swath of land ablaze in mere moments.",
@@ -1994,6 +2411,7 @@
             "traits": "Explosive"
         },
         {
+            "id": 57,
             "name": "Directional Shield",
             "descriptive-name": "SH-51 Directional Shield",
             "description": "A one-handed device that deploys a wide energy barrier in front of the user. The barrier is semipermeable and blocks high-speed projectiles from the outside only, leaving the user free to shoot through it.",
@@ -2009,6 +2427,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 58,
             "name": "Flame Sentry",
             "descriptive-name": "A/FLAM-40 Flame Sentry",
             "description": "An automated flamethrower turret. Warning: fuel canister prone to explosion when ruptured.",
@@ -2024,6 +2443,7 @@
             "traits": "Hellpod,Incendiary"
         },
         {
+            "id": 59,
             "name": "Anti-Tank Emplacement",
             "descriptive-name": "E/AT-12 Anti-Tank Emplacement",
             "description": "A powerful manned gun emplacement, capable of taking out armored targets at long ranges.",
@@ -2039,6 +2459,7 @@
             "traits": "Hellpod,Heavy Armor Penetrating"
         },
         {
+            "id": 60,
             "name": "StA-X3 WASP Launcher",
             "descriptive-name": "StA-X3 W.A.S.P. Launcher",
             "description": "A versatile missile launcher loaded with seven lock-on homing missiles. These can either be fired from the launcher directly or as an airburst. Includes support backpack required for reloading. Produced by Stal Arms.",
@@ -2054,6 +2475,7 @@
             "traits": "Hellpod,Anti-Tank,Stationary Reload"
         },
         {
+            "id": 61,
             "name": "Fast Recon Vehicle",
             "descriptive-name": "M-102 Fast Recon Vehicle",
             "description": "A lightly-armored reconnaissance vehicle mounted with a heavy machinegun.",
@@ -2069,6 +2491,7 @@
             "traits": ""
         },
         {
+            "id": 62,
             "name": "Portable Hellbomb",
             "descriptive-name": "B-100 Portable Hellbomb",
             "description": "A backpack-mounted Hellbomb that can be armed by the wearer or an ally, starting a countdown. Users are recommended to remove the backpack before the countdown reaches zero.",
@@ -2084,6 +2507,7 @@
             "traits": "Hellpod,Explosive,Anti-tank"
         },
         {
+            "id": 63,
             "name": "Gas Mines",
             "descriptive-name": "MD-8 Gas Mines",
             "description": "Deploys mines that release gas on activation, temporarily blinding and slowing most enemies.",
@@ -2099,6 +2523,7 @@
             "traits": "Hellpod,Explosive,Caustic"
         },
         {
+            "id": 64,
             "name": "Hover Pack",
             "descriptive-name": "Lift-860 Hover Pack",
             "description": "Offers its user brief fixed-height flight, stable enough for pinpoint marksmanship.",
@@ -2114,6 +2539,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 65,
             "name": "Grenadier Battlement",
             "descriptive-name": "E/GL-21 Grenadier Battlement",
             "description": "A stationary ballistic cover with a mounted grenade launcher. Can protect multiple Helldivers from small arms fire.",
@@ -2129,6 +2555,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 66,
             "name": "One True Flag",
             "descriptive-name": "CQC-1 One True Flag",
             "description": "The eternal colors of Super Earth can never be tainted. Only quenched, by the blood of its enemies.",
@@ -2144,6 +2571,7 @@
             "traits": "Hellpod,Melee,One-Handed"
         },
         {
+            "id": 67,
             "name": "De-Escalator",
             "descriptive-name": "GL-52 De-Escalator",
             "description": "A humane grenade launcher firing high-powered arc grenades.",
@@ -2159,6 +2587,7 @@
             "traits": "Hellpod,Explosive,Medium Armor Penetrating"
         },
         {
+            "id": 68,
             "name": "\"Guard Dog\" K-9",
             "descriptive-name": "AX/ARC-3 \"Guard Dog\" K-9",
             "description": "A humane, autonomous drone equipped with a modified Arc Thrower. Capable of projecting arcs of lightning through multiple targets. Does not need to recharge between shots.",
@@ -2174,6 +2603,7 @@
             "traits": "Hellpod,Backpack,Medium Armor Penetrating"
         },
         {
+            "id": 69,
             "name": "Epoch",
             "descriptive-name": "PLAS-45 Epoch",
             "description": "A powerful plasma weapon that fires one blast at a time, each blast exploding on impact. Must be charged to fire. Warning: do not overcharge.",
@@ -2189,6 +2619,7 @@
             "traits": "Hellpod,Explosive,Heavy Armor Penetrating,Chargeup"
         },
         {
+            "id": 70,
             "name": "Laser Sentry",
             "descriptive-name": "A/LAS-98 Laser Sentry",
             "description": "A turret firing powerful and precise laser beams. Warning: overloading heat sink may cause  adverse effects.",
@@ -2204,6 +2635,7 @@
             "traits": "Hellpod,Heavy Armor Penetrating,Heat,Beam"
         },
         {
+            "id": 71,
             "name": "Warp Pack",
             "descriptive-name": "LIFT-182 Warp Pack",
             "description": "A Dark Fluid-powered backpack that generates a portable micro-wormhole. This safe and well-understood technology allows the wearer to warp short distances. Warning: do not use while pack is  overloaded.",
@@ -2219,6 +2651,7 @@
             "traits": "Hellpod"
         },
         {
+            "id": 72,
             "name": "Speargun",
             "descriptive-name": "S-11 Speargun",
             "description": "A speargun firing heavy-duty projectiles. These projectiles release a cloud of gas on impact, and must be carefully loaded one at a time.",
@@ -2234,6 +2667,7 @@
             "traits": "Hellpod,Anti-Tank,Caustic"
         },
         {
+            "id": 73,
             "name": "Expendable Napalm",
             "descriptive-name": "EAT-700 Expendable Napalm",
             "description": "A single-use weapon that fires a missile containing napalm cluster bombs that release upon impact.",
@@ -2249,6 +2683,7 @@
             "traits": "Hellpod,Incendiary,Expendable"
         },
         {
+            "id": 74,
             "name": "Solo Silo",
             "descriptive-name": "MS-11 Solo Silo",
             "description": "A silo that fits one single, powerful missile. Comes with a handheld targeting remote.",
@@ -2264,6 +2699,7 @@
             "traits": "Hellpod,Anti-Tank,Explosive"
         },
         {
+            "id": 75,
             "name": "\"Guard Dog\" Hot Dog",
             "descriptive-name": "AX/FLAM-75 Hot Dog",
             "description": "An autonomous drone equipped with a flamethrower. Returns to pack to refill fuel canisters",
@@ -2279,6 +2715,7 @@
             "traits": "Hellpod,Incendiary"
         },
         {
+            "id": 76,
             "name": "Defoliation Tool",
             "descriptive-name": "CQC-9 Defoliation Tool",
             "description": "A useful field-clearing tool for removing trees, obstacles, and unlucky foes.",
@@ -2294,6 +2731,7 @@
             "traits": "Hellpod,Melee"
         },
         {
+            "id": 77,
             "name": "Maxigun",
             "descriptive-name": "M-1000 Maxigun",
             "description": "A belt-fed minigun with an exceptional ammo capacity. Cannot be reloaded with standard non-belted munitions.",
@@ -2309,6 +2747,7 @@
             "traits": "Hellpod,Medium Armor Penetrating,Backpack"
         },
         {
+            "id": 78,
             "name": "C4 Pack",
             "descriptive-name": "B/MD C4 Pack",
             "description": "A backpack containing six adhesive C4 charges and a handheld wireless electronic detonator. Charges can be deployed and detonated individually, or as multiple simultaneous blasts.",
@@ -2324,7 +2763,8 @@
             "traits": "Hellpod,Anti-Tank,Explosive"
         },
         {
-            "name": "CQC-20",
+            "id": 79,
+            "name": "Breaching Hammer",
             "descriptive-name": "CQC-20 Breaching Hammer",
             "description": "A sledgehammer that can be wielded with or without an explosive charge attached to its head.",
             "category": "Siege Breakers",
@@ -2339,7 +2779,8 @@
             "traits": "Hellpod,Anti-Tank,Explosive,Melee"
         },
         {
-            "name": "EAT-411",
+            "id": 80,
+            "name": "Leveller",
             "descriptive-name": "EAT-411 Leveller",
             "description": "A single-use weapon firing a high-yield missile. Discarded after every use.",
             "category": "Siege Breakers",
@@ -2354,7 +2795,8 @@
             "traits": "Hellpod,Anti-Tank,Expendable"
         },
         {
-            "name": "GL-28",
+            "id": 81,
+            "name": "Belt-Fed Grenade Launcher",
             "descriptive-name": "GL-28 Belt-Fed Grenade Launcher",
             "description": "A grenade launcher that can be fired continuously to deliver a nonstop barrage of explosives. ",
             "category": "Siege Breakers",
@@ -2369,6 +2811,7 @@
             "traits": "Hellpod,Backpack,Explosive,Heavy Armor Penetrating"
         },
         {
+            "id": 82,
             "name": "Gas Mortar Sentry",
             "descriptive-name": "A/GM-17 Gas Mortar Sentry",
             "description": "An automated turret that fires gas shells. Its targeting system prioritizes hostiles not yet exhibiting symptoms caused by gas inhalation. Users are advised to stay significantly upwind of the resulting crowd control.",
@@ -2384,6 +2827,7 @@
             "traits": "Hellpod,Explosive,Caustic"
         },
         {
+            "id": 83,
             "name": "Cremator",
             "descriptive-name": "B/FLAM-80 Cremator",
             "description": "Incendiary support fed by a massive fuel tank. This heavy flamethrower enables a continuous column of fire to cleanse the battlefield.",
@@ -2397,10 +2841,75 @@
             "uses": -1,
             "cooldown-time": 480,
             "traits": "Hellpod,Backpack,Inceni"
+        },
+        {
+            "id": 84,
+            "name": "Bullet Storm",
+            "descriptive-name": "MGX-42 Bullet Storm",
+            "description": "An expendable pair of machine guns capable of spewing bullets from many barrels for sustained anti-personnel fire.",
+            "category": "Exo Experts",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 75,
+            "level": 1,
+            "code": "sasdwa",
+            "call-in-time": 6.75,
+            "uses": -1,
+            "cooldown-time": 70,
+            "traits": "Hellpod,Expendable"
+        },
+        {
+            "id": 85,
+            "name": "Lumberer Exosuit",
+            "descriptive-name": "EXO-51 Lumberer Exosuit",
+            "description": "A heavily-armored walking exosuit equipped with an anti-tank cannon and a flamethrower.",
+            "category": "Exo Experts",
+            "sub-category": "Vehicle",
+            "type": "Supply",
+            "price": 50,
+            "level": 1,
+            "code": "asdwdaw",
+            "call-in-time": 10.5,
+            "uses": 3,
+            "cooldown-time": 420,
+            "traits": "Explosive"
+        },
+        {
+            "id": 86,
+            "name": "Breakthrough Exosuit",
+            "descriptive-name": "EXO-55 Breakthrough Exosuit",
+            "description": "A heavily-armored walking exosuit equipped with a flak cannon and a ballistic shield.",
+            "category": "Exo Experts",
+            "sub-category": "Vehicle",
+            "type": "Supply",
+            "price": 50,
+            "level": 1,
+            "code": "asdadsw",
+            "call-in-time": 10.5,
+            "uses": 3,
+            "cooldown-time": 420,
+            "traits": "Explosive"
+        },
+        {
+            "id": 87,
+            "name": "Meltagun",
+            "descriptive-name": "40-K Meltagun",
+            "description": "A short-ranged support weapon that fires a superheated blast of thermal energy, excelling against heavily-armored enemies and structures.",
+            "category": "Castellan's Creed",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 110,
+            "level": 1,
+            "code": "sawaas",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Hellpod"
         }
     ],
     "Boosters": [
         {
+            "id": 0,
             "name": "Hellpod Space Optimization",
             "effect": "Helldivers come out of the Hellpod fully stocked on Ammo, Grenades, and Stims.",
             "price": null,
@@ -2408,6 +2917,7 @@
             "premium": false
         },
         {
+            "id": 1,
             "name": "Vitality Enhancement",
             "effect": "Allows all Helldivers to resist injury.",
             "price": 20,
@@ -2415,6 +2925,7 @@
             "premium": false
         },
         {
+            "id": 2,
             "name": "UAV Recon Booster",
             "effect": "Increases all Helldivers' effective radar range.",
             "price": 40,
@@ -2422,6 +2933,7 @@
             "premium": false
         },
         {
+            "id": 3,
             "name": "Stamina Enhancement",
             "effect": "Increases all Helldivers' stamina capacity and recovery.",
             "price": 75,
@@ -2429,6 +2941,7 @@
             "premium": false
         },
         {
+            "id": 4,
             "name": "Muscle Enhancement",
             "effect": "Allows Helldivers to traverse difficult terrain with ease.",
             "price": 70,
@@ -2436,6 +2949,7 @@
             "premium": false
         },
         {
+            "id": 5,
             "name": "Increased Reinforcement Budget",
             "effect": "Increases the number of available reinforcements.",
             "price": 150,
@@ -2443,6 +2957,7 @@
             "premium": false
         },
         {
+            "id": 6,
             "name": "Flexible Reinforcement Budget",
             "effect": "Reduces time until new reinforcements are granted once they've been depleted.",
             "price": 75,
@@ -2450,6 +2965,7 @@
             "premium": true
         },
         {
+            "id": 7,
             "name": "Localization Confusion",
             "effect": "Increases the time between enemy encounters",
             "price": 18,
@@ -2457,6 +2973,7 @@
             "premium": true
         },
         {
+            "id": 8,
             "name": "Expert Extraction Pilot",
             "effect": "Lowers the time it takes for the extraction shuttle to reach the extraction beacon.",
             "price": 55,
@@ -2464,6 +2981,7 @@
             "premium": true
         },
         {
+            "id": 9,
             "name": "Motivational Shocks",
             "effect": "Allows all Helldivers to recover faster after being slowed by an attack, such as acid. Does not mitigate \"area effects,\" such as EMS strikes.",
             "price": 15,
@@ -2471,6 +2989,7 @@
             "premium": true
         },
         {
+            "id": 10,
             "name": "Experimental Infusion",
             "effect": "In addition to restoring health, Stims temporarily increase movement speed and damage reduction.  Causes trembling.",
             "price": 80,
@@ -2478,6 +2997,7 @@
             "premium": true
         },
         {
+            "id": 11,
             "name": "Firebomb Hellpods",
             "effect": "Lines all Hellpods with volatile incendiaries that detonate upon impact, igniting any units in vicinity of the drop site.",
             "price": 60,
@@ -2485,6 +3005,7 @@
             "premium": true
         },
         {
+            "id": 12,
             "name": "Dead Sprint",
             "effect": "Allows Helldivers to keep sprinting even when they are out of stamina, draining their health instead.",
             "price": 35,
@@ -2492,6 +3013,7 @@
             "premium": true
         },
         {
+            "id": 13,
             "name": "Armed Resupply Pods",
             "effect": "Mounts a modified AR-23 Liberator to all resupply pods, allowing them to double as automatic turrets.",
             "price": 55,
@@ -2499,6 +3021,7 @@
             "premium": true
         },
         {
+            "id": 14,
             "name": "Sample Extricator",
             "effect": "Large enemies now have a small chance of dropping Samples on death. Capped at 10 drops per mission.",
             "price": 65,
@@ -2506,6 +3029,7 @@
             "premium": true
         },
         {
+            "id": 15,
             "name": "Stun Pods",
             "effect": "Exposes Hellpod wiring upon surface contact, stunning any units in the vicinity of the drop site.",
             "price": 55,
@@ -2513,6 +3037,7 @@
             "premium": true
         },
         {
+            "id": 16,
             "name": "Concealed Insertion",
             "effect": "Equips Hellpods to deploy smokescreens on impact, obscuring Helldiver deployment.",
             "price": 40,
