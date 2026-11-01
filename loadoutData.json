@@ -755,6 +755,19 @@
             "warbond": "Scope of Authority",
             "premium": true,
             "page": 1
+        },
+        {
+            "id": 52,
+            "name": "AR-23L Liberator Legacy",
+            "description": "A modified version of the AR-23 Liberator, inspired by the original Liberator used by Helldivers during the First Galactic War.",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 90, "capacity": 45, "recoil": 14, "fire rate": 660 },
+            "traits": "Light Armor Penetrating",
+            "price": 0,
+            "warbond": "None",
+            "premium": false,
+            "page": 0
         }
     ],
     "Secondary Weaponry": [
