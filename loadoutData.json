@@ -703,6 +703,71 @@
             "warbond": "Castellan's Creed",
             "premium": true,
             "page": 1
+        },
+        {
+            "id": 49,
+            "name": "AR-11 Arbitrator",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 70, "capacity": 45, "recoil": 13, "fire rate": 1200 },
+            "traits": "Light Armor Penetrating",
+            "price": 35,
+            "warbond": "Ironclad Democracy Premium Warbond",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 50,
+            "name": "GL-15 Evictor",
+            "description": "",
+            "category": "primary",
+            "sub-category": "Explosive",
+            "stats": { "damage": 490, "capacity": 4, "recoil": 83, "fire rate": 60 },
+            "traits": "Medium Armor Penetrating,Explosive,Rounds Reload",
+            "price": 65,
+            "warbond": "Ironclad Democracy Premium Warbond",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 51,
+            "name": "LAS-12 Sai",
+            "description": "This pump-action grenade launcher trades precision for devastating area-of-effect capabilities with a powerful pump-action grenade launcher. Its manual single-round reload makes it a highly methodical choice for squads requiring an explosive approach to dispute resolution.",
+            "category": "primary",
+            "sub-category": "Energy",
+            "stats": { "damage": 80, "capacity": 4, "recoil": 11, "fire rate": 800 },
+            "traits": "Medium Armor Penetrating,One Handed,Heat",
+            "price": 400,
+            "warbond": "None",
+            "premium": true,
+            "page": 0
+        },
+        {
+            "id": 52,
+            "name": "R-40 Sightliner",
+            "description": "A heavy bolt-action sniper rifle. Fires high-damage armor piercing rounds with exceptional long-range precision, ensuring Democracy can be delivered no matter the distance.",
+            "category": "primary",
+            "sub-category": "Marksman Rifle",
+            "stats": { "damage": 350, "capacity": 10, "recoil": 76, "fire rate": 40 },
+            "traits": "Heavy Armor Penetrating",
+            "price": 35,
+            "warbond": "Scope of Authority",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 52,
+            "name": "AR-23L Liberator Legacy",
+            "description": "A modified version of the AR-23 Liberator, inspired by the original Liberator used by Helldivers during the First Galactic War.",
+            "category": "primary",
+            "sub-category": "Assault Rifle",
+            "stats": { "damage": 90, "capacity": 45, "recoil": 14, "fire rate": 660 },
+            "traits": "Light Armor Penetrating",
+            "price": 0,
+            "warbond": "None",
+            "premium": false,
+            "page": 0
         }
     ],
     "Secondary Weaponry": [
@@ -1019,6 +1084,32 @@
             "warbond": "Castellan's Creed",
             "premium": true,
             "page": 2
+        },
+        {
+            "id": 23,
+            "name": "P-34 Breacher",
+            "description": "A missile pistol equipped with sticky projectiles that use phosphorus fuel to burn through an enemy's armor—or any other outer layer—before finally exploding.",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 2000, "capacity": 1, "recoil": 313, "fire rate": 20 },
+            "traits": "One Handed,Anti-Tank,Sticky,Explosive",
+            "price": 50,
+            "warbond": "Ironclad Democracy",
+            "premium": true,
+            "page": 2
+        },
+        {
+            "id": 24,
+            "name": "P-44 Mist",
+            "description": "",
+            "category": "secondary",
+            "sub-category": "pistol",
+            "stats": { "damage": 110, "capacity": 25, "recoil": 17, "fire rate": 400 },
+            "traits": "One Handed,Light Armor Penetrating",
+            "price": 65,
+            "warbond": "Scope of Authority",
+            "premium": true,
+            "page": 3
         }
     ],
     "Armor Passives": [
@@ -1166,6 +1257,16 @@
             "id": 28,
             "passive": "True Grit",
             "passive-description": "Increases reload speed of support weapons by 30%. Slightly increases weapon ergonomics to reduce drag on weapon movement."
+        },
+        {
+            "id": 29,
+            "passive": "Blunt-Force Mitigation",
+            "passive-description": "Bearer is more resistant to being knocked prone. Reduces damage taken from impact and collisions by 30%. Provides a higher armor rating."
+        },
+        {
+            "id": 30,
+            "passive": "Stationary Shroud",
+            "passive-description": "Reduces weapon sway while aiming by 35%. Wearer makes 15% less noise when moving. Mimics foliage-level concealment, reducing enemy detection range while the wearer remains stationary and crouched or prone."
         }
     ],
     "Armor Types": ["light", "medium", "heavy"],
@@ -1483,11 +1584,11 @@
         {
             "id": 19,
             "name": "G/40-K Melta Mine",
-            "description": "",
+            "description": "A powerful, single-use, proximity-detonated heat energy mine. During the Fall of Chara, it is said that enough Melta Mines were detonated to outshine the planet's sun.",
             "category": "",
             "stats": {
                 "damage": 2000,
-                "penetration": 8,
+                "penetration": 7,
                 "outer radius": 6
             },
             "traits": "Explosive,Anti-Tank",
@@ -1495,6 +1596,54 @@
             "warbond": "Castellan's Creed",
             "premium": true,
             "page": 2
+        }, 
+        {
+            "id": 20,
+            "name": "G-8 Immolation",
+            "description": "An incendiary device that shatters on impact, without explosive force, instantly creating a localized and persistent combustion field.",
+            "category": "",
+            "stats": {
+                "damage": 20,
+                "penetration": 0,
+                "outer radius": 10
+            },
+            "traits": "Incendiary",
+            "price": 35,
+            "warbond": "Ironclad Democracy",
+            "premium": true,
+            "page": 1
+        },
+        {
+            "id": 21,
+            "name": "G-60 Anti-Tank Seeker",
+            "description": "Equipped with a heavy payload suitable against armored vehicles, this grenade delivery drone follows the user until it detects an enemy nearby, then flies towards it and explodes on impact.",
+            "category": "",
+            "stats": {
+                "damage": 1800,
+                "penetration": 5,
+                "outer radius": 12
+            },
+            "traits": "Anti-Tank,Explosive,Guided",
+            "price": 65,
+            "warbond": "Ironclad Democracy",
+            "premium": true,
+            "page": 3
+        },
+        {
+            "id": 22,
+            "name": "G-11 Caltrops",
+            "description": "",
+            "category": "",
+            "stats": {
+                "damage": 50,
+                "penetration": 3,
+                "outer radius": 10
+            },
+            "traits": "Stun,Sticky",
+            "price": 35,
+            "warbond": "Scope of Authority",
+            "premium": true,
+            "page": 1
         }
     ],
     "Stratagems": [
@@ -2476,7 +2625,7 @@
         },
         {
             "id": 61,
-            "name": "Fast Recon Vehicle",
+            "name": "Gunner FRV",
             "descriptive-name": "M-102 Fast Recon Vehicle",
             "description": "A lightly-armored reconnaissance vehicle mounted with a heavy machinegun.",
             "category": "Hangar",
@@ -2905,7 +3054,104 @@
             "uses": -1,
             "cooldown-time": 480,
             "traits": "Hellpod"
+        },
+        {
+            "id": 88,
+            "name": "Apex",
+            "descriptive-name": "AMW-20 Apex",
+            "description": "A colossal anti-materiel sniper rifle. While its immense kinetic recoil mandates its user crouch or lie prone, its backpack-fed 20mm rounds deliver final, un-appealable verdicts to armoured threats.",
+            "category": "Scope of Authority",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 50,
+            "level": 2,
+            "code": "saawsa",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Backpack,Heavy Armour Penetrating,Stationary Reload"
+        },
+        {
+            "id": 89,
+            "name": "Nova",
+            "descriptive-name": "LAS-44 Nova",
+            "description": "A sleek energy rifle requiring a brief charge cycle to fire a high-precision, non-explosive thermal projectile. Features infinite ammunition and an optimised cooldown cycle enabled by venting steam after each discharge.",
+            "category": "Scope of Authority",
+            "sub-category": "Support Weapon",
+            "type": "Supply",
+            "price": 110,
+            "level": 3,
+            "code": "sadss",
+            "call-in-time": 7.75,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Anti-Tank,Heat"
+        },
+        {
+            "id": 90,
+            "name": "Eagle Gas Strike",
+            "descriptive-name": "Eagle Gas Strike",
+            "description": "",
+            "category": "Hangar",
+            "sub-category": "Eagle",
+            "type": "Offensive",
+            "price": 0,
+            "level": 0,
+            "code": "wdad",
+            "call-in-time": 4.1,
+            "uses": 2,
+            "cooldown-time": 15,
+            "traits": "Explosive,Caustic"
+        },
+        {
+            "id": 91,
+            "name": "Supply FRV",
+            "descriptive-name": "M-103 Supply Fast Recon Vehicule",
+            "description": "A high-speed Fast Recon Vehicle equipped with an automated defense turret and a mounted supply rack, allowing frontline personnel to fully replenish ammunition and medical supplies on the move.",
+            "category": "Hangar",
+            "sub-category": "Vehicle",
+            "type": "Supply",
+            "price": 25000,
+            "level": 1,
+            "code": "asaaswd",
+            "call-in-time": 10.5,
+            "uses": -1,
+            "cooldown-time": 480,
+            "traits": "Medium Armor Penetrating"
+        },
+        {
+            "id": 92,
+            "name": "Bastion MK XVI",
+            "descriptive-name": "TD-220 Bastion MK XVI",
+            "description": "A heavily-armored tank destroyer armored with a 120mm high-velocity cannon and a heavy coaxial machinegun.",
+            "category": "Hangar",
+            "sub-category": "Vehicle",
+            "type": "Supply",
+            "price": 35000,
+            "level": 30,
+            "code": "asdsaswsw",
+            "call-in-time": 10.5,
+            "uses": -1,
+            "cooldown-time": 780,
+            "traits": "Explosive,Anti-Tank,Heavy Armor Penetrating"
+        },
+        {
+            "id": 93,
+            "name": "Maelstrom",
+            "descriptive-name": "TD-110 Maelstrom",
+            "description": "A heavily-armoured Infantry Fighting Vehicle (IFV) armed with front-mounted dual Gatling guns, equipped with a deployable smoke screen, and featuring rear-mounted missile silos--its projectiles laser-guided by the gunner's turret.",
+            "category": "Hangar",
+            "sub-category": "Vehicle",
+            "type": "Supply",
+            "price": 0,
+            "level": 0,
+            "code": "asdsaswad",
+            "call-in-time": 10.5,
+            "uses": -1,
+            "cooldown-time": 780,
+            "traits": "Heavy Armor Penetrating,Anti-Tank"
         }
+        
     ],
     "Boosters": [
         {
@@ -3042,6 +3288,22 @@
             "effect": "Equips Hellpods to deploy smokescreens on impact, obscuring Helldiver deployment.",
             "price": 40,
             "category": "Redacted Regiment",
+            "premium": true
+        },
+        {
+            "id": 17,
+            "name": "Surplus EAT Allocation",
+            "effect": "Grants two free uses of the Expendable Anti-Tank (EAT) Stratagem per mission; enough to grant a full squad one single-use rocket launcher each, provided squad members employ the proper equipment distribution protocol.",
+            "price": 55,
+            "category": "Ironclad Democracy",
+            "premium": true
+        },
+        {
+            "id": 18,
+            "name": "Integrated Extinguishers",
+            "effect": "Equips Helldiver uniforms with form-fitting, automated, rapid-response fire suppression systems. Significantly reduces the time it takes to naturally extinguish flames without conducting ground-aided smothering manuevers.",
+            "price": 65,
+            "category": "Ironclad Democracy",
             "premium": true
         }
     ],

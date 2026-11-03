@@ -1,0 +1,13 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+  <desc>Traced by Dogo314</desc>
+  <g affinity:id="Blunt-Force Mitigation Armor Passive Icon" transform="scale(.24758 .23704)">
+    <path style="fill:none" d="M0 0h1034v1080H0z"/>
+    <clipPath id="a">
+      <path d="M0 0h1034v1080H0z"/>
+    </clipPath>
+    <g clip-path="url(#a)">
+      <path style="fill:#ffdf21" transform="matrix(4.15261 0 0 4.82143 -29.068 -154.286)" d="M7 32h249v224H7z"/>
+      <path d="M581.621 320.624 646.246 202.5h161.562v118.125L727.028 405H306.964l-80.781-84.375V202.5h161.562l64.625 118.125zM678.56 877.5H355.434V624.374L306.965 438.75h420.062L678.56 624.374zm-517-270 48.469-50.625-48.47-50.625 48.47-50.625-80.782-151.875 145.407 151.875-48.47 50.625 48.47 50.625-48.47 50.625 48.47 50.625-48.47 50.625 48.47 50.625L129.246 911.25l80.782-151.875-48.47-50.625 48.47-50.625zm710.874 0-48.468 50.625 48.468 50.625-48.468 50.625 80.78 151.875L759.34 759.374l48.468-50.625-48.468-50.625 48.468-50.625-48.468-50.625 48.468-50.625-48.468-50.625L904.746 303.75l-80.781 151.875 48.468 50.625-48.468 50.625z"/>
+    </g>
+  </g>
+</svg>
