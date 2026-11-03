@@ -757,7 +757,7 @@
             "page": 1
         },
         {
-            "id": 52,
+            "id": 53,
             "name": "AR-23L Liberator Legacy",
             "description": "A modified version of the AR-23 Liberator, inspired by the original Liberator used by Helldivers during the First Galactic War.",
             "category": "primary",
@@ -3106,7 +3106,7 @@
         {
             "id": 91,
             "name": "Supply FRV",
-            "descriptive-name": "M-103 Supply Fast Recon Vehicule",
+            "descriptive-name": "M-103 Supply Fast Recon Vehicle",
             "description": "A high-speed Fast Recon Vehicle equipped with an automated defense turret and a mounted supply rack, allowing frontline personnel to fully replenish ammunition and medical supplies on the move.",
             "category": "Hangar",
             "sub-category": "Vehicle",
