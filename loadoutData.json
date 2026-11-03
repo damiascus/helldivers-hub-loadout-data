@@ -1267,7 +1267,11 @@
             "id": 30,
             "passive": "Stationary Shroud",
             "passive-description": "Reduces weapon sway while aiming by 35%. Wearer makes 15% less noise when moving. Mimics foliage-level concealment, reducing enemy detection range while the wearer remains stationary and crouched or prone."
-        }
+        },
+        {
+            "id": 31,
+            "passive": "Kinetic Displacement Mitigation",
+            "passive-description": "Provides 50% damage resistance to fire, allowing bearer to rest assured in their inflammability. Gives the wearer a 50% chance to avoid grievous limb injury. Reduces damage taken from impact and collisions by 30%."
     ],
     "Armor Types": ["light", "medium", "heavy"],
     "Grenades": [
