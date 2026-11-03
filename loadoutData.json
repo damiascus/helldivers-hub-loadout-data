@@ -770,7 +770,7 @@
             "page": 0
         },
         {
-            "id": 53,
+            "id": 54,
             "name": "SG-97 Sweeper",
             "description": "A slamfire shotgun: fires continuously while the trigger is depressed, via activation of the pump-action mechanism. Loaded with armor-piercing flechettes and equipped with an extended bayonet.",
             "category": "primary",
@@ -783,7 +783,7 @@
             "page": 0
         },
         {
-            "id": 54,
+            "id": 55,
             "name": "DBS-2 Double Freedom",
             "description": "With its two barrels, one trigger, and vintage feel, this shotgun is perfect for historical reenactments.",
             "category": "primary",
@@ -793,6 +793,19 @@
             "price": 400,
             "warbond": "Superstore",
             "premium": true,
+            "page": 0
+        },
+        {
+            "id": 56,
+            "name": "R-4 Hyena",
+            "description": "With its two barrels, one trigger, and vintage feel, this shotgun is perfect for historical reenactments.",
+            "category": "primary",
+            "sub-category": "Marksman Rifle",
+            "stats": { "damage": 220, "capacity": 15, "recoil": 54, "fire rate": 190 },
+            "traits": "Medium Armor Penetrating,Incendiary",
+            "price": 0,
+            "warbond": "None",
+            "premium": false,
             "page": 0
         }
     ],
@@ -1311,6 +1324,7 @@
             "id": 31,
             "passive": "Kinetic Displacement Mitigation",
             "passive-description": "Provides 50% damage resistance to fire, allowing bearer to rest assured in their inflammability. Gives the wearer a 50% chance to avoid grievous limb injury. Reduces damage taken from impact and collisions by 30%."
+        }
     ],
     "Armor Types": ["light", "medium", "heavy"],
     "Grenades": [
