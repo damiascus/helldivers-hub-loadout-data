@@ -1,0 +1,8 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+  <g transform="scale(.24758 .23704)">
+    <path style="fill:none" d="M0 0h1034v1080H0z"/>
+    <g clip-path="url(#a)">
+      <path d="M1009.761 611.718v143.438H24.23V611.718zM569.524 793.124l84.756 215.157H379.711l84.756-215.157zm-121.22-628.593v413.437H343.345v-42.187l-40.407 42.187H56.555l12.122-25.312v-80.157L189.8 442.97l92.936-75.938v-202.5zm137.383 0h165.57v202.5l92.935 75.937L965.314 472.5v80.157l12.122 25.312H731.053l-40.407-42.187v42.187H585.687z" style="fill:#FDB827"/>
+    </g>
+  </g>
+</svg>
