@@ -2700,7 +2700,7 @@
         {
             "id": 61,
             "name": "Gunner FRV",
-            "descriptive-name": "M-102 Fast Recon Vehicle",
+            "descriptive-name": "M-102 Gunner FRV",
             "description": "A lightly-armored reconnaissance vehicle mounted with a heavy machinegun.",
             "category": "Hangar",
             "sub-category": "Vehicle",
@@ -3180,7 +3180,7 @@
         {
             "id": 91,
             "name": "Supply FRV",
-            "descriptive-name": "M-103 Supply Fast Recon Vehicle",
+            "descriptive-name": "M-103 Supply FRV",
             "description": "A high-speed Fast Recon Vehicle equipped with an automated defense turret and a mounted supply rack, allowing frontline personnel to fully replenish ammunition and medical supplies on the move.",
             "category": "Hangar",
             "sub-category": "Vehicle",
